@@ -1,1 +1,1 @@
-Empty sample file example of different files to include in a GitHub repository
+A short demonstration of how to use the project for the most simple use cases.
