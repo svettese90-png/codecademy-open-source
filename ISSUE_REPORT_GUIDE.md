@@ -2,7 +2,7 @@
   <h1>Template For Reporting Issues</h1></div>
   <br><br>
 
-##Bug Reports<br><br>
+## Bug Reports<br>
 
 Please state the following:<br>
 1) **Version number** of the software, browser and browser version, and operating system type and version.<br>
@@ -14,8 +14,8 @@ Please state the following:<br>
 
 **Make sure to provide the code in a copy-pasteable format.**<br><br>
 
-##Feature requests<br><br>
+## Feature requests<br>
 Feature request submissions should follow a similar format to bug reports.<br><br>
 
-##Questions<br><br>
+## Questions<br>
 If you have a question about any part of the software, please be detailed.
