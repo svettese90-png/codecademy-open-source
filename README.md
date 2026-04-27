@@ -10,7 +10,7 @@ readme-templates.com<br>
 2) Usage guide
 3) Local machine setup guide
 4) Links to other documentation in folder (e.g. Code of Conduct, Contributor Guidelines)
-5) <br><br>
+<br><br>
 
 **Formatting code for my own reference:**<br><br>
 
