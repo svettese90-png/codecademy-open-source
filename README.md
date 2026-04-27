@@ -15,4 +15,6 @@ Before ~~strikethrough text~~ after<br><br>
 
 | foo | bar |
 | --- | --- |
-| baz | bim |
+| baz | bim |<br><br>
+
+_Italics_
