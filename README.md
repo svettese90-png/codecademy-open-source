@@ -1,9 +1,16 @@
 #codeacademy-open-source
 
 Sample readme file for Code Academy course<br>
-Empty Project<br>
-Not meant to be contributed to<br>
-No other relevant documentation<br><br>
+Empty project not meant to be contributed to<br>
+<br>
+readme-templates.com<br>
+<br>
+
+1) Description of project
+2) Usage guide
+3) Local machine setup guide
+4) Links to other documentation in folder (e.g. Code of Conduct, Contributor Guidelines)
+5) <br><br>
 
 **Formatting code for my own reference:**<br><br>
 
