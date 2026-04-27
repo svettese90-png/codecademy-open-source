@@ -3,7 +3,7 @@
 Sample readme file for Code Academy course<br>
 Empty project not meant to be contributed to<br>
 <br>
-readme-templates.com<br>
+[Readme Templates](readme-templates.com)<br>
 <br>
 
 1) Description of project
